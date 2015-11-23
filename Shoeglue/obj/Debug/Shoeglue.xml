@@ -1,0 +1,194 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Shoeglue
+</name>
+</assembly>
+<members>
+<member name="T:Shoeglue.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.bomb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.level0">
+<summary>
+  Looks up a localized string similar to 0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+6000000000000007
+1111111111111111
+120
+160
+Use the arrow keys to move. You need a key to open a door..
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.level1">
+<summary>
+  Looks up a localized string similar to 0000000000000000
+0000000000000000
+0000000000000000
+0006000000000000
+0003000000000000
+0003000000000000
+0003333111000000
+0000003000000000
+0000003000000000
+0000003000000000
+0000003001307000
+1111111111111111
+24
+160
+You can&apos;t jump. Use ladders instead. Use the arrow keys to climb ladders..
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.level2">
+<summary>
+  Looks up a localized string similar to 0000000000000000
+0000007000000000
+0000311100000000
+0000311100000000
+0000300100000000
+0000316100000000
+0000314100000000
+0000312100000000
+0000300000000000
+2220300000000000
+2420300000000000
+1111111111111111
+16
+160
+Press Space to drop a bomb. Use bombs to blow up walls..
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.level3">
+<summary>
+  Looks up a localized string similar to 1111111111111111
+1555555555555551
+1111111111111151
+1555555555555551
+1511111111111111
+1555555555555551
+1111111111111151
+1555555555555551
+1511111111111111
+1555555555555671
+1111111111111111
+1111111111111111
+16
+16
+Collect coins. You need these to unlock areas..
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.level4">
+<summary>
+  Looks up a localized string similar to 0000000000000000
+0062700004000000
+0312211111300000
+0338833333300000
+0008800000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+1111111111111111
+120
+16
+If you mess up, try again! Press F9 to restart the level.
+.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.level5">
+<summary>
+  Looks up a localized string similar to 0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0038888800000000
+0030000038880000
+0030000030400000
+8888881028800000
+0000012021001000
+6000012221888000
+8888308880000000
+0007888888888800
+96
+96
+You are on your own now. Level 6-1: Invisible Maze.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.level6">
+<summary>
+  Looks up a localized string similar to 0000111133333311
+0000130000041361
+0111131881221331
+0122031701001331
+0133111351001331
+0133100351001331
+0133100351001331
+0133100351001331
+0133100351001331
+0133100351001331
+0133400351000331
+0111111111088888
+121
+32
+Level 7-1: Ladder something.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.level7">
+<summary>
+  Looks up a localized string similar to 0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000006000000
+0000333333333333
+0000402205550003
+0000007100000003
+0000001111888888
+128
+160
+Level 8-1: End of port version 1.0.0 This is the end of the PC port Version 1.0.0.
+</summary>
+</member>
+<member name="P:Shoeglue.My.Resources.Resources.sp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

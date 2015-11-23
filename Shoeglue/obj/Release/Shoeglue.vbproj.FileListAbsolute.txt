@@ -1,0 +1,16 @@
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Release\Shoeglue.exe
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Release\Shoeglue.exe.config
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.vbprojResolveAssemblyReference.cache
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.Form1.resources
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.Form2.resources
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.Resources.resources
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.vbproj.GenerateResource.Cache
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.exe
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.xml
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.pdb
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Release\Shoeglue.exe.manifest
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Release\Shoeglue.application
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Release\Shoeglue.pdb
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Release\Shoeglue.xml
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.exe.manifest
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Release\Shoeglue.application

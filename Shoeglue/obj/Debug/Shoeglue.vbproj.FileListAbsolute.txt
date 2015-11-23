@@ -1,0 +1,16 @@
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Debug\Shoeglue.exe.config
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Debug\Shoeglue.exe
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Debug\Shoeglue.pdb
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\bin\Debug\Shoeglue.xml
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.Form1.resources
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.Resources.resources
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.vbproj.GenerateResource.Cache
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.exe
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.xml
+c:\users\perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.pdb
+C:\Users\Perska\documents\visual studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.vbprojResolveAssemblyReference.cache
+C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.Form2.resources
+C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\bin\Debug\Shoeglue.exe.manifest
+C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\bin\Debug\Shoeglue.application
+C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.exe.manifest
+C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.application
