@@ -14,3 +14,19 @@ C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\bin\Debu
 C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\bin\Debug\Shoeglue.application
 C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.exe.manifest
 C:\Users\Perska\Documents\Visual Studio 2015\Projects\Shoeglue\Shoeglue\obj\Debug\Shoeglue.application
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\bin\Debug\Shoeglue.exe.config
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.exe
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.xml
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.pdb
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\bin\Debug\Shoeglue.exe.manifest
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\bin\Debug\Shoeglue.application
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\bin\Debug\Shoeglue.exe
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\bin\Debug\Shoeglue.pdb
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\bin\Debug\Shoeglue.xml
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.vbprojResolveAssemblyReference.cache
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.Form1.resources
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.Form2.resources
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.Resources.resources
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.vbproj.GenerateResource.Cache
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.exe.manifest
+C:\Users\codye\Shoeglue\Shoeglue\Shoeglue\obj\Debug\Shoeglue.application

@@ -264,126 +264,119 @@
         vars.key = 0
         vars.bomb = 0
         vars.bo = 0
-        If vars.lvl = 0 Then
-            Dim levelDataRaw As String() = (My.Resources.level0).Split({Environment.NewLine}, StringSplitOptions.None)
-            Dim levelData16x12(12) As String
-            For i As Integer = 0 To 11
-                levelData16x12(i) = levelDataRaw(i)
-            Next
-            For y = 0 To 11
-                For x = 0 To 15
-                    vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+        Select Case vars.lvl
+            Case 0
+                Dim levelDataRaw As String() = (My.Resources.level0).Split({Environment.NewLine}, StringSplitOptions.None)
+                Dim levelData16x12(12) As String
+                For i As Integer = 0 To 11
+                    levelData16x12(i) = levelDataRaw(i)
                 Next
-            Next
-            vars.x = CInt(levelDataRaw(12))
-            vars.y = CInt(levelDataRaw(13))
-            TextBox1.Text = levelDataRaw(14)
-        End If
-        If vars.lvl = 1 Then
-            Dim levelDataRaw As String() = (My.Resources.level1).Split({Environment.NewLine}, StringSplitOptions.None)
-            Dim levelData16x12(12) As String
-            For i As Integer = 0 To 11
-                levelData16x12(i) = levelDataRaw(i)
-            Next
-            For y = 0 To 11
-                For x = 0 To 15
-                    vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                For y = 0 To 11
+                    For x = 0 To 15
+                        vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                    Next
                 Next
-            Next
-            vars.x = CInt(levelDataRaw(12))
-            vars.y = CInt(levelDataRaw(13))
-            TextBox1.Text = levelDataRaw(14)
-        End If
-        If vars.lvl = 2 Then
-            Dim levelDataRaw As String() = (My.Resources.level2).Split({Environment.NewLine}, StringSplitOptions.None)
-            Dim levelData16x12(12) As String
-            For i As Integer = 0 To 11
-                levelData16x12(i) = levelDataRaw(i)
-            Next
-            For y = 0 To 11
-                For x = 0 To 15
-                    vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                vars.x = CInt(levelDataRaw(12))
+                vars.y = CInt(levelDataRaw(13))
+                TextBox1.Text = levelDataRaw(14)
+            Case 1
+                Dim levelDataRaw As String() = (My.Resources.level1).Split({Environment.NewLine}, StringSplitOptions.None)
+                Dim levelData16x12(12) As String
+                For i As Integer = 0 To 11
+                    levelData16x12(i) = levelDataRaw(i)
                 Next
-            Next
-            vars.x = CInt(levelDataRaw(12))
-            vars.y = CInt(levelDataRaw(13))
-            TextBox1.Text = levelDataRaw(14)
-        End If
-        If vars.lvl = 3 Then
-            Dim levelDataRaw As String() = (My.Resources.level3).Split({Environment.NewLine}, StringSplitOptions.None)
-            Dim levelData16x12(12) As String
-            For i As Integer = 0 To 11
-                levelData16x12(i) = levelDataRaw(i)
-            Next
-            For y = 0 To 11
-                For x = 0 To 15
-                    vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                For y = 0 To 11
+                    For x = 0 To 15
+                        vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                    Next
                 Next
-            Next
-            vars.x = CInt(levelDataRaw(12))
-            vars.y = CInt(levelDataRaw(13))
-            TextBox1.Text = levelDataRaw(14)
-        End If
-        If vars.lvl = 4 Then
-            Dim levelDataRaw As String() = (My.Resources.level4).Split({Environment.NewLine}, StringSplitOptions.None)
-            Dim levelData16x12(12) As String
-            For i As Integer = 0 To 11
-                levelData16x12(i) = levelDataRaw(i)
-            Next
-            For y = 0 To 11
-                For x = 0 To 15
-                    vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                vars.x = CInt(levelDataRaw(12))
+                vars.y = CInt(levelDataRaw(13))
+                TextBox1.Text = levelDataRaw(14)
+            Case 2
+                Dim levelDataRaw As String() = (My.Resources.level2).Split({Environment.NewLine}, StringSplitOptions.None)
+                Dim levelData16x12(12) As String
+                For i As Integer = 0 To 11
+                    levelData16x12(i) = levelDataRaw(i)
                 Next
-            Next
-            vars.x = CInt(levelDataRaw(12))
-            vars.y = CInt(levelDataRaw(13))
-            TextBox1.Text = levelDataRaw(14)
-        End If
-        If vars.lvl = 5 Then
-            Dim levelDataRaw As String() = (My.Resources.level5).Split({Environment.NewLine}, StringSplitOptions.None)
-            Dim levelData16x12(12) As String
-            For i As Integer = 0 To 11
-                levelData16x12(i) = levelDataRaw(i)
-            Next
-            For y = 0 To 11
-                For x = 0 To 15
-                    vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                For y = 0 To 11
+                    For x = 0 To 15
+                        vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                    Next
                 Next
-            Next
-            vars.x = CInt(levelDataRaw(12))
-            vars.y = CInt(levelDataRaw(13))
-            TextBox1.Text = levelDataRaw(14)
-        End If
-        If vars.lvl = 6 Then
-            Dim levelDataRaw As String() = (My.Resources.level6).Split({Environment.NewLine}, StringSplitOptions.None)
-            Dim levelData16x12(12) As String
-            For i As Integer = 0 To 11
-                levelData16x12(i) = levelDataRaw(i)
-            Next
-            For y = 0 To 11
-                For x = 0 To 15
-                    vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                vars.x = CInt(levelDataRaw(12))
+                vars.y = CInt(levelDataRaw(13))
+                TextBox1.Text = levelDataRaw(14)
+            Case 3
+                Dim levelDataRaw As String() = (My.Resources.level3).Split({Environment.NewLine}, StringSplitOptions.None)
+                Dim levelData16x12(12) As String
+                For i As Integer = 0 To 11
+                    levelData16x12(i) = levelDataRaw(i)
                 Next
-            Next
-            vars.x = CInt(levelDataRaw(12))
-            vars.y = CInt(levelDataRaw(13))
-            TextBox1.Text = levelDataRaw(14)
-        End If
-        If vars.lvl = 7 Then
-            Dim levelDataRaw As String() = (My.Resources.level7).Split({Environment.NewLine}, StringSplitOptions.None)
-            Dim levelData16x12(12) As String
-            For i As Integer = 0 To 11
-                levelData16x12(i) = levelDataRaw(i)
-            Next
-            For y = 0 To 11
-                For x = 0 To 15
-                    vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                For y = 0 To 11
+                    For x = 0 To 15
+                        vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                    Next
                 Next
-            Next
-            vars.x = CInt(levelDataRaw(12))
-            vars.y = CInt(levelDataRaw(13))
-            TextBox1.Text = levelDataRaw(14)
-        End If
-
+                vars.x = CInt(levelDataRaw(12))
+                vars.y = CInt(levelDataRaw(13))
+                TextBox1.Text = levelDataRaw(14)
+            Case 4
+                Dim levelDataRaw As String() = (My.Resources.level4).Split({Environment.NewLine}, StringSplitOptions.None)
+                Dim levelData16x12(12) As String
+                For i As Integer = 0 To 11
+                    levelData16x12(i) = levelDataRaw(i)
+                Next
+                For y = 0 To 11
+                    For x = 0 To 15
+                        vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                    Next
+                Next
+                vars.x = CInt(levelDataRaw(12))
+                vars.y = CInt(levelDataRaw(13))
+                TextBox1.Text = levelDataRaw(14)
+                Case 5
+                Dim levelDataRaw As String() = (My.Resources.level5).Split({Environment.NewLine}, StringSplitOptions.None)
+                Dim levelData16x12(12) As String
+                For i As Integer = 0 To 11
+                    levelData16x12(i) = levelDataRaw(i)
+                Next
+                For y = 0 To 11
+                    For x = 0 To 15
+                        vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                    Next
+                Next
+                vars.x = CInt(levelDataRaw(12))
+                vars.y = CInt(levelDataRaw(13))
+                TextBox1.Text = levelDataRaw(14)
+            Case 6
+                Dim levelDataRaw As String() = (My.Resources.level6).Split({Environment.NewLine}, StringSplitOptions.None)
+                Dim levelData16x12(12) As String
+                For i As Integer = 0 To 11
+                    levelData16x12(i) = levelDataRaw(i)
+                Next
+                For y = 0 To 11
+                    For x = 0 To 15
+                        vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                    Next
+                Next
+                vars.x = CInt(levelDataRaw(12))
+                vars.y = CInt(levelDataRaw(13))
+                TextBox1.Text = levelDataRaw(14)
+                Case 7
+                Dim levelDataRaw As String() = (My.Resources.level7).Split({Environment.NewLine}, StringSplitOptions.None)
+                Dim levelData16x12(12) As String
+                For i As Integer = 0 To 11
+                    levelData16x12(i) = levelDataRaw(i)
+                Next
+                For y = 0 To 11
+                    For x = 0 To 15
+                        vars.map(x, y) = CInt(Mid(levelData16x12(y), x + 1, 1))
+                    Next
+                Next
+                vars.x = CInt(levelDataRaw(12))
+                vars.y = CInt(levelDataRaw(13))
+                TextBox1.Text = levelDataRaw(14)
+        End Select
     End Sub
 End Class
